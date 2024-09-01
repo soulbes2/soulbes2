@@ -1,6 +1,5 @@
 # 강솔비 (SoulBe Kang)
 
-![Profile Picture](https://via.placeholder.com/150)
 
 ## 🌟 About Me
 
