@@ -30,21 +30,21 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/홍익대학교-FF0000?style=flat-square&logo=hongik&logoColor=white" alt="홍익대학교"/>
+      <img src="https://img.shields.io/badge/홍익대학교-3755EE?style=flat-square&logo=hongik&logoColor=white" alt="홍익대학교"/>
     </td>
-    <td>디자인컨버전스학부 재학</td>
+    <td>디자인컨버전스학부 졸업예정</td>
   </tr>
 </table>
 
 ## 🏆 Achievements
 <div>
-  <img src="https://img.shields.io/badge/최우수팀-FFD700?style=flat-square" alt="최우수팀"/> 현대차산학 미래모빌리티 프로젝트
+  <img src="https://img.shields.io/badge/최우수팀-F1E5A1?style=flat-square" alt="최우수팀"/> 현대차산학 미래모빌리티 프로젝트
 </div>
 <div>
-  <img src="https://img.shields.io/badge/최우수팀-FFD700?style=flat-square" alt="최우수팀"/> 롯데이노베이트 스핀오프 헤이나나팀 서비스개선 부문
+  <img src="https://img.shields.io/badge/최우수팀-F1E5A1?style=flat-square" alt="최우수팀"/> 롯데이노베이트 스핀오프 헤이나나팀 서비스개선 부문
 </div>
 <div>
-  <img src="https://img.shields.io/badge/최우수상-FFD700?style=flat-square" alt="최우수상"/> 세종시 창조경제 혁신센터 스타트업 청년매칭 마케팅 실전 프로젝트
+  <img src="https://img.shields.io/badge/최우수상-F1E5A1?style=flat-square" alt="최우수상"/> 세종시 창조경제 혁신센터 스타트업 청년매칭 마케팅 실전 프로젝트
 </div>
 
 ## 💼 Work Experience
