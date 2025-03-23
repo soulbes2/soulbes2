@@ -7,7 +7,6 @@
     <a href="https://www.behance.net/rainlong">
       <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
     </a>
-    </a>
     <a href="mailto:your.email@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
